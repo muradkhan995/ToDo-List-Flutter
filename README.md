@@ -19,7 +19,7 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 todolist/test/
 ## Screenshot Meanu
-![](tes/a.PNG)
+![1](.test/a.PNG)
 
 ## Screenshot Mark The List
 ![2](https://user-images.githubusercontent.com/15960772/94367775-2e16c400-00fa-11eb-97d3-ba1077d0f03f.png)
