@@ -19,13 +19,14 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 todolist/test/
 ## Screenshot Meanu
-![1](.test/a.PNG)
+![1](test/a.png)
 
 ## Screenshot Mark The List
-![2](https://user-images.githubusercontent.com/15960772/94367775-2e16c400-00fa-11eb-97d3-ba1077d0f03f.png)
-![3](https://user-images.githubusercontent.com/15960772/94367776-2e16c400-00fa-11eb-9c2e-f79c13c4120c.png)
-![4](https://user-images.githubusercontent.com/15960772/94367777-2eaf5a80-00fa-11eb-89e5-91abe7f08a35.png)
-![5](https://user-images.githubusercontent.com/15960772/94367778-2f47f100-00fa-11eb-8365-db1c0c0965b0.png)
+![2](test/b.png)
+![3](test/c.png)
+![4](test/d.png)
+![5](test/e.png)
+
 
 
 For help getting started with Flutter, view our
